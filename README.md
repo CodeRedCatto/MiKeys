@@ -17,6 +17,6 @@ Welcome to MiKeys! The focus of this project is to provide a simple interface fo
 - ~~Compact~~ (Planned)
 
 ## Setup
-```
+
 ![A .png showing the layout of the key graphic](MiKeys/MiKeys/Content/MiKey_KeyTemplate)
-![A .png showing an exampel key graphic](MiKeys/MiKeys/Content/MiKey_KeyExample)
+![A .png showing an example key graphic](MiKeys/MiKeys/Content/MiKey_KeyExample)
