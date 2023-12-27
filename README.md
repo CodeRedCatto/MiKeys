@@ -63,3 +63,6 @@ The key uses a simple tileset for idle, highlighted and disabled keys. A templat
 
 ## Fonts
 Currently MiKeys only supports monospaced font. The font included in the repo is FixedSys Excelsior, a public domain font. The original .ttx and updated .ttf can be found here https://github.com/kika/fixedsys/ and here https://github.com/delinx/Fixedsys-Core
+
+## Credit
+The code is released under the MIT License, so go crazy. If you make anything cool, show me! Credit is appreciated :) 
