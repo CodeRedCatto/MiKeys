@@ -18,7 +18,11 @@ Welcome to MiKeys! The focus of this project is to provide a simple interface fo
 - ~~Compact~~ (Planned)
 
 ## Setup
-The project should just run out of the box. The main integrations points are:
+The project should just run out of the box. 
+To run the example, wait for the project to load, then hit Space to open the virtual keyboard. When finished, hit Enter to close the virtual keyboard and view the typed message.
+
+## Integration
+The main integrations points are:
 
 Add and initialize the EntryManager:
 ``` C#
