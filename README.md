@@ -20,16 +20,16 @@ Welcome to MiKeys! The focus of this project is to provide a simple interface fo
 ## Setup
 The project should just run out of the box. The main integrations points are:
 
-- Add and initialize the EntryManager:
+Add and initialize the EntryManager:
 ``` C#
 EntryManager EM;
 EM = new EntryManager();
 ```
-- Call ```Load()``` on EntryManager:
+Call ```Load()``` on EntryManager:
 ``` C#
 EM.Load(Content, "MiKey_KeyExample");
 ```
-- Create a return string container and a callback event to assign the EntryManager's ```InputCaptured``` event:
+Create a return string container and a callback event to assign the EntryManager's ```InputCaptured``` event:
 ``` C#
 string resultString = "";
 void InputCaptured(object sender, EventArgs e)
@@ -38,7 +38,7 @@ void InputCaptured(object sender, EventArgs e)
   EM.InputCaptured -= InputCaptured;
 }
 ```
-- Define a setup call to build a virtual keyboard layout and assign the callback:
+Define a setup call to build a virtual keyboard layout and assign the callback:
 ``` C#
 RefreshKeyboardAndMouse();
 RefreshGamepads();
