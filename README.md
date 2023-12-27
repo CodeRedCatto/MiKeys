@@ -1,4 +1,5 @@
-![MiKeys Logo](MiKeysLogo)
+![MiKeys Logo](MiKeysLogo.png)
+
 An open-source, virtual keyboard library for MonoGame.
 
 Welcome to MiKeys! The focus of this project is to provide a simple interface for collecting user input. The library is designed to be flexible, accessible and easily customizable.
@@ -18,5 +19,5 @@ Welcome to MiKeys! The focus of this project is to provide a simple interface fo
 
 ## Setup
 
-![A .png showing the layout of the key graphic](MiKeys/MiKeys/Content/MiKey_KeyTemplate)
-![A .png showing an example key graphic](MiKeys/MiKeys/Content/MiKey_KeyExample)
+![A .png showing the layout of the key graphic](MiKeys/MiKeys/Content/MiKey_KeyTemplate.png)
+![A .png showing an example key graphic](MiKeys/MiKeys/Content/MiKey_KeyExample.png)
